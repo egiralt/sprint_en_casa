@@ -6,18 +6,15 @@ Este repositorio contiene materiales y las distintas versiones del manual del m�
 
 Traducciones:
 
-## [Español](./spanish) 
-===
+## Español
 
-
-
-* [manual-es-sprint-en-casa.docx](./spanish/manual-es-sprint-en-casa.docx) (Microsoft Word)
+* [manual-es-sprint-en-casa.docx](https://github.com/egiralt/sprint_en_casa/raw/master/translations/spanish/manual-es-sprint-en-casa.docx)   (Microsoft Word)
 
 ## [Català](./catalan)
 ===
 
-## [Euskera](./euskea)
-===
+## Euskera]
 
-## [Galego](./galego)
+
+## Galego
 
